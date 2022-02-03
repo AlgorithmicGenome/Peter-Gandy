@@ -20,3 +20,5 @@ Ten random economic indictors were used to forecast the delinquency rate.
 9. PAYEMS : All Employees, Total Nonfarm, Thousands of Persons, Quarterly, Seasonally Adjusted.
 
 #10. DGS10 : 10-Year Treasury Constant Maturity Rate, Percent, Quarterly, Not Seasonally Adjusted.
+
+![image](https://user-images.githubusercontent.com/62982909/152434157-dc2fa736-bee1-4e57-a575-73c555fbf443.png)
